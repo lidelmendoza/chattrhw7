@@ -1,2 +1,2 @@
 import ChatApp from './app';
-new ChatApp;
+new ChatApp();
